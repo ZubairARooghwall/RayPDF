@@ -2,6 +2,7 @@
 //
 
 #include "RayPDF.h"
+#include "raylib.h"
 
 using namespace std;
 
